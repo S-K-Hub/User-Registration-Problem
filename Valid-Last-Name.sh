@@ -6,11 +6,11 @@ if [[ $firstName =~ $nameRegex ]]
 then
   echo "First name is valid"
 else
-  echo "First name is invalid";
+  echo "First name is invalid"
 fi
 if [[ $lastName =~ $nameRegex ]]
 then
   echo "Last name is valid"
 else
-  echo "Last name is invalid";
+  echo "Last name is invalid"
 fi
