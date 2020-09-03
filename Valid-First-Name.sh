@@ -5,5 +5,5 @@ if [[ $firstName =~ $firstNameRegex ]]
 then
   echo "First name is valid"
 else
-  echo "First name is invalid";
+  echo "First name is invalid"
 fi
